@@ -4,4 +4,4 @@
 
 #SCSS---Landing-page (in phone-scree)....
 
-![Screenshot 2024-10-02 231610](https://github.com/user-attachments/assets/988f42df-5eb7-4d5f-a746-7e9f22e779ce)
+![Screenshot 2024-10-02 231902](https://github.com/user-attachments/assets/d3bc6902-70f5-45d8-8ecd-3e384513387b)
